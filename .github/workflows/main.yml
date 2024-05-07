@@ -2,7 +2,7 @@ name: update readme and deploy new release
 
 on:
   push:
-    branches: master
+    branches: main
     tags:
       - "[0-9]+.*"
   schedule:
