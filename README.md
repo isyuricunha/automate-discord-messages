@@ -80,4 +80,4 @@ These scripts allow you to automate sending messages on Discord channels. You ca
 - Do not share your `config.json` file with anyone.
 - Please ensure that your credentials, such as your account Token and Channel ID, are not visible to other individuals or online automated systems. You and only you have access to them, and if you inadvertently expose them publicly on any repository or anywhere on the internet, it is entirely your responsibility.
 
-Feel free to reach out if you encounter any issues or have any questions!
+Feel free to reach out if you encounter any issues or have any questions! 🚀
