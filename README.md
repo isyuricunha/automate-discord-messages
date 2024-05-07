@@ -70,7 +70,7 @@ These scripts allow you to automate sending messages on Discord channels. You ca
 
 #### Important Notes
 - Make sure your account has the necessary permissions to send messages in the specified channel.
-- The provided interval is in seconds. Adjust it according to your requirements (e.g. 3600 = 60 minutes = 1 hour).
+- The provided interval is in seconds. Adjust it according to your requirements (e.g. 3600 seconds = 60 minutes = 1 hour).
 - Ensure that your account token and channel ID are kept secure. Do not share them publicly.
 - I am not responsible for the use of the code by third parties, regardless of the reason. Therefore, in case of misuse or proper use, I bear no responsibility for its use by third parties.
 

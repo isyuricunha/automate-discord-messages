@@ -47,4 +47,4 @@ def main():
 if __name__ == '__main__': 
 	while True:    
 		main()      
-		sleep(1800) #How often the message will be sent (in seconds), every 1 hour = 3600
+		sleep(1800) #How often the message will be sent (in seconds), every 1 hour = 3600 seconds
