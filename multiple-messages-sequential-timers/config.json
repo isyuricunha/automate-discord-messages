@@ -1,0 +1,22 @@
+{
+	"Config": [
+		{
+			"token": "YOUR_DISCORD_TOKEN",
+			"channelid": "DISCORD_CHANNEL_ID",
+			"messages": [
+				{ "content": "Your message here!", "interval": 3 },
+				{ "content": "Your message here! 1 ", "interval": 3 },
+				{ "content": "Your message here! 2", "interval": 3 },
+				{ "content": "Your message here! 3", "interval": 3 },
+				{ "content": "Your message here! 4", "interval": 3 },
+				{ "content": "Your message here! 5", "interval": 3 },
+				{ "content": "Your message here! 6", "interval": 3 },
+				{ "content": "Your message here! 7", "interval": 3 },
+				{ "content": "Your message here! 8", "interval": 3 },
+				{ "content": "Your message here! 9", "interval": 3 },
+				{ "content": "You can add more lines", "interval": 3 },
+				{ "interval": 3625 }
+			]
+		}
+	]
+}

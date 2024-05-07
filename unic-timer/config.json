@@ -1,0 +1,9 @@
+{
+	"Config": [
+		{
+			"token": "YOUR_DISCORD_TOKEN",
+			"channelid": "DISCORD_CHANNEL_ID",
+			"message": "Your message here!"
+		}
+	]
+}
